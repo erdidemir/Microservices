@@ -1,3 +1,4 @@
 Services
 
-Couse.Services -> 5011
+Authentication.API -> 5011
+Product.API -> 5012
